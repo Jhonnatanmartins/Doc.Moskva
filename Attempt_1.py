@@ -13,4 +13,22 @@ X=5
 Y= hello world
 Print (x)
 print (y)
-    
+print("python is fun", end= "")
+print("python is fun today", end ="")
+print("i am 30 years old now")
+x = int(30) #is type integer
+y = str("=jhonnatan") #is now of type string
+print(x, end="")
+print(type(y))
+Z = 37
+print("z")
+A, B, C, D= str("jhonnatan,"), int(30),str(","), str("is his age.")
+print(A,B,C,D)
+print(type(A),type(B),type(C),type(D))
+l = "i am "
+k = "greatness."
+j = 25
+print(l,k,j)
+print(type(l),type(k))
+print("hello","world")
+
