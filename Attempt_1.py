@@ -32,3 +32,20 @@ print(l,k,j)
 print(type(l),type(k))
 print("hello","world")
 
+age = 30
+txt = f'my name is john and i am {age}'
+print (txt)
+
+price = 59
+txt = f"The price is {price:.2f} dollars"
+print(txt)
+
+txt = "We are the so-called \"Vikings\" from the north."
+print(txt.upper())
+
+a = 20
+b = 15
+if b>a:
+    print("b is greater then a")
+else:
+    print("b is not greater then a")
