@@ -49,3 +49,15 @@ if b>a:
     print("b is greater then a")
 else:
     print("b is not greater then a")
+print("hello");print("i drink");print("coffee")
+X = (2+3) == 5 if True else  returnFalse
+print(X)
+
+mylist = ['apple', 'banana', 'cherry']
+print(mylist[0])
+
+
+
+def lovefunc(flower1, flower2):
+  # Return true if one is odd and the other is even
+  return flower1 % 2 != flower2 % 2
