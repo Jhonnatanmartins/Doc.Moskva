@@ -159,5 +159,19 @@ ac = 3
 print(type(aa+ac-ab),(aa+ab))
 
 
+a = 'myself'
+b = 'me'
+c = a + b
+d = c + " "
+silly = b*3
+print (silly)
+
+a = '-'
+b = '-'
+c = '<'
+d = '_____'
+print (a," ", b)
+print (' ',c)
+print (d)
 
 
