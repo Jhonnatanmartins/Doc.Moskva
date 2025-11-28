@@ -56,6 +56,7 @@ print(X)
 mylist = ['apple', 'banana', 'cherry']
 print(mylist[0])
 
+
 age = 30
 txt = f'my name is john and i am {age}'
 print (txt)
