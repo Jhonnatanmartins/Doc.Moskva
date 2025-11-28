@@ -89,3 +89,28 @@ add
 def lovefunc(flower1, flower2):
   # Return true if one is odd and the other is even
   return flower1 % 2 != flower2 % 2
+
+"receiving user data"
+#data entry
+print("what is your name")
+name = 'imput()'
+print("welcome %s" % name)
+
+#processing
+
+print({5//3})
+
+
+print(round(5/2))
+
+num = 1_000_000
+print(num)
+
+x = "john is king"
+print(x[::-1])
+
+42 == True
+
+
+
+
