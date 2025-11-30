@@ -180,4 +180,8 @@ print (s[0:2])
 print(s[:])
 print(s[0:len(s):-1])
 print(s[:-1])
+x = "ABC d3f ghi"
+print(x)
+print(x[0:5])
+print(x[6:3])
 
